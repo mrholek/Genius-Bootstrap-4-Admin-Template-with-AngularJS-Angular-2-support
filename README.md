@@ -1,7 +1,5 @@
 # Genius Bootstrap 4 Admin Template with AngularJS and Angular 2 support.
 
-Why I decided to create CoreUI? Please read this article: [Jack of all trades, master of none. Why Boostrap Admin Templates sucks.] (https://medium.com/@lukaszholeczek/jack-of-all-trades-master-of-none-5ea53ef8a1f#.7eqx1bcd8)
-
 Genius is not just another Admin Template. It goes way beyond hitherto admin templates thanks to transparent code and file structure. And if it’s not enough, let’s just add the Clver consists bunch of unique features and over 1000 high quality icons.,
 
 Genius based on Bootstrap 4 and offers 5 versions: HTML5, AJAX, AngularJS, Angular2 and React.
@@ -10,7 +8,7 @@ Genius is meant to be the UX game changer. Pure & transparent code is devoid of 
 
 <img src="https://genesisui.com/img/macbook-genius-bs4.png" alt="Bootstrap 4 Admin Template">
 
-Demo: <a href="https://genesisui.com/showcase.html?id=genius">Genius Bootstrap 4 Admin Template</a>
+Demo: <a href="https://genesisui.com/bootstrap-admin-template.html?id=genius">Genius Bootstrap 4 Admin Template</a>
 
 **NOTE:** Please remember to **STAR** this project and **FOLLOW** [my Github](https://github.com/mrholek) to keep you update with this template.
 
@@ -36,4 +34,4 @@ Have a bug or a feature request? [Please open a new issue](https://github.com/mr
 
 ## Copyright and license
 
-Copyright (c) 2016 creativeLabs Łukasz Holeczek. If you want to use this template in your personal or commercial project you have to buy proper license. You can buy license on our website: https://genesisui.com/showcase.html?id=genius
+Copyright (c) 2017 creativeLabs Łukasz Holeczek. If you want to use this template in your personal or commercial project you have to buy proper license. You can buy license on our website: https://genesisui.com/bootstrap-admin-template.html?id=genius
